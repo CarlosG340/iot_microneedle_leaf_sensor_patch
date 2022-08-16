@@ -1,5 +1,5 @@
 # iot_microneedle_leaf_sensor_patch
-Research, test and design a microneedle patch that converts pH level of a plant and converts it to voltage and upload all readings to a cloud database to display on various tables. All items are to be showcased at The University of Texas at Tyler Electrical Engineering Senior Capstone Emporium
+Research, test and design a microneedle patch that receives pH level of a plant and converts it to voltage while uploading all readings to a cloud database to display on various tables. All items are to be showcased at The University of Texas at Tyler Electrical Engineering Senior Capstone Emporium
 
 Credited Members: Carlos Galvan, Rudy Montiel, Jared Carter, Karl Lorenz
 
